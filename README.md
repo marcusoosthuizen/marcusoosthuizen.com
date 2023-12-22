@@ -1,2 +1,2 @@
 # marcusoosthuizen.com
-my personal website
+The source code for my newly (as of December 2023) remade website!
